@@ -3,7 +3,7 @@
 
 ## Área das variáveis
 
-{{peso}}
+<p>{{peso}}<p/>
 {{Altura}}
 {{IMC}}
 {{Biotipo}}
