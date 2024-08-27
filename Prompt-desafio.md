@@ -4,16 +4,16 @@
 ## Área das variáveis
 
 <p>{{peso}}<p/>
-{{Altura}}
-{{IMC}}
-{{Biotipo}}
-{{Metas}}
-{{periodização}}
-{{tipo}}
-{{Estabelecer limite de pesos}}
-{{Dietas}}
-{{previsão}}
-{{Recompensa}}
+<p>{{Altura}}<p/>
+<p>{{IMC}}<p/>
+<p>{{Biotipo}}<p/>
+<p>{{Metas}}<p/>
+<p>{{periodização}}<p/>
+<p>{{tipo}}<p/>
+<p>{{Estabelecer limite de pesos}}<p/>
+<p>{{Dietas}}<p/>
+<p>{{previsão}}<p/>
+<p>{{Recompensa}}<p/>
 
 ## Regras
 
